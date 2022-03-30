@@ -1,0 +1,13 @@
+# BLASTN 2.13.0+
+# Query: dnaN
+# Database: D:/ArquivosDeProgramas/exercicios/venv/BlastTkinter/BlastTkinterV2/database.fna
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+dnaN	lcl|NZ_CP016826.1_cds_WP_013240862.1_2	100.000	1188	0	0	1	1188	1	1188	0.0	2194
+# BLASTN 2.13.0+
+# Query: 16SrRNA
+# Database: D:/ArquivosDeProgramas/exercicios/venv/BlastTkinter/BlastTkinterV2/database.fna
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 1 hits found
+16SrRNA	lcl|NZ_CP016826.1_cds_WP_230455525.1_1317	100.000	978	0	0	1	978	1	978	0.0	1807
+# BLAST processed 2 queries
